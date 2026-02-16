@@ -1,0 +1,16 @@
+OrderID,OrderDate,Category,SubCategory,Sales,Quantity,Profit,Region
+1,1/5/2023,Furniture,Chairs,200,2,40,East
+2,1/7/2023,Technology,Phones,500,1,120,West
+3,1/10/2023,Office Supplies,Binders,80,5,-20,South
+4,2/1/2023,Furniture,Tables,350,1,-70,East
+5,2/12/2023,Technology,Accessories,150,3,30,Central
+6,2/18/2023,Office Supplies,Paper,60,10,15,West
+7,3/2/2023,Technology,Laptops,1200,1,250,East
+8,3/15/2023,Furniture,Bookcases,400,2,-90,South
+9,3/20/2023,Office Supplies,Storage,220,2,50,Central
+10,3/25/2023,Technology,Phones,650,1,150,West
+11,4/5/2023,Furniture,Tables,500,2,-120,East
+12,4/12/2023,Office Supplies,Binders,90,3,-15,South
+13,4/20/2023,Technology,Accessories,200,4,60,Central
+14,5/1/2023,Furniture,Chairs,250,1,-35,West
+15,5/8/2023,Office Supplies,Paper,75,6,20,East
