@@ -1,6 +1,6 @@
 # Sales Dashboard using Python
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](supersales_dashboaard_preview.png)
 
 This project analyzes retail sales data and generates business insights using Python.
 
